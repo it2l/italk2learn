@@ -107,7 +107,7 @@
 		<module>it2l-task-independent-support</module>
 		<module>it2l-perceive-difficulty-task</module>
 		<module>it2l-sequencer</module>
-		<module>it2l-speech-module</module>
+		<module>it2l-speech-production</module>
 		<module>Italk2learnFinal</module>
 	</modules>
 
