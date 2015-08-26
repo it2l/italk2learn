@@ -108,7 +108,7 @@
 		<module>it2l-perceive-difficulty-task</module>
 		<module>it2l-sequencer</module>
 		<module>it2l-speech-production</module>
-		<module>Italk2learnFinal</module>
+		<module>it2l-platform</module>
 	</modules>
 
 	<dependencyManagement>
