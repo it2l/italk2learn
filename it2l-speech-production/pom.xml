@@ -182,30 +182,30 @@
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
-<!-- 		English male voice -->
+<!-- 		English male voice 
 		<dependency>
 			<groupId>de.dfki.mary</groupId>
 			<artifactId>voice-dfki-spike-hsmm</artifactId>
 			<version>5.2-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>compile</scope>
-		</dependency>
-<!-- 		German female voice -->
+		</dependency> -->
+<!-- 		German female voice 
 		<dependency>
 			<groupId>de.dfki.mary</groupId>
 			<artifactId>voice-bits1-hsmm</artifactId>
 			<version>5.2-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>compile</scope>
-		</dependency>
-<!-- 		German male voice -->
+		</dependency> -->
+<!-- 		German male voice 
 		<dependency>
 			<groupId>de.dfki.mary</groupId>
 			<artifactId>voice-dfki-pavoque-neutral-hsmm</artifactId>
 			<version>5.2-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>compile</scope>
-		</dependency>
+		</dependency> -->
 	</dependencies>
 
 	<build>
