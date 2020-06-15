@@ -18,7 +18,7 @@
 		<webflow-version>2.4.0.M1</webflow-version>
 		<slf4j-version>1.7.5</slf4j-version>
 		<hibernate.version>3.6.10.Final</hibernate.version>
-		<hibernate.validator.version>4.3.0.Final</hibernate.validator.version>
+		<hibernate.validator.version>5.3.5.Final</hibernate.validator.version>
 		<thymeleaf-version>2.0.15</thymeleaf-version>
 		<thymeleaf-extras-tiles2-version>2.0.0</thymeleaf-extras-tiles2-version>
 		<thymeleaf-extras-springsecurity3-version>2.0.0</thymeleaf-extras-springsecurity3-version>
